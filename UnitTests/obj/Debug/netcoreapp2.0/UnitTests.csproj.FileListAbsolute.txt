@@ -1,0 +1,12 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\Minedraft.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\Minedraft.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\15.ExamPreperationTwo\UnitTests\bin\Debug\netcoreapp2.0\Minedraft.exe.config
